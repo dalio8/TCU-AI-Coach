@@ -1,0 +1,5 @@
+{
+  "name": "TCU AI Coach",
+  "description": "An AI assistant for candidates preparing for the TCU IT Audit exam, providing low-latency, expert responses on technical topics in the CEBRASPE style.",
+  "requestFramePermissions": []
+}
